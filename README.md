@@ -1,5 +1,5 @@
 
-<div align="center">
+
 
 ### 안녕하세요 👋
   배울게 많은 프론트 엔드 개발자 입니다 👩🏻‍💻 <br>
@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-61DAFB?style=flat&logo=Recoil&logocolor=white)<br><br>
-</div>
 
-<div align="center">
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anyudbwls&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyudbwls&layout=compact">
-</div>
